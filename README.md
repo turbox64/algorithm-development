@@ -10,7 +10,7 @@ This repository contains a collection of algorithmic solutions developed in Pyth
 
 2. **Character Symbolism Grid**  
    A symbolic representation algorithm using a grid.  
-   [Learn More](char-symbol-grid/README.md)
+   [Learn More](char-grid-symbolizer/README.md)
 
 ## How to Run
 1. Clone the repository:  
