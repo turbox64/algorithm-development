@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL of the Google Docs documents
-google_doc_url = "https://docs.google.com/document/d/e/2PACX-1vSHesOf9hv2sPOntssYrEdubmMQm8lwjfwv6NPjjmIRYs_FOYXtqrYgjh85jBUebK9swPXh_a5TJ5Kl/pub"
+google_doc_url = "https://docs.google.com/document/d/1I2wAZOsE8BuX-YJi8u0Qhxqzq5rfHwdw_WMc3eyAmA0/edit?usp=sharing"
 
 
 def print_character_grid(url):
